@@ -1,0 +1,36 @@
+
+			h1 {
+				color:#CD38FC;
+			}
+
+			body{
+				background-color:#4C38FC;
+			}
+
+			img{
+				width: 50%;
+				border-style:solid;
+			}
+
+			div {
+				border-style:solid;
+			}
+
+
+			.big-img{
+				width:30%;
+			}
+
+			.thumb-img{
+				width:20%;
+			}
+
+			.background-pink{
+				background-color:#CD38FC;
+			}
+
+			.background-purple{
+				background-color:#8D38FC;
+			}
+
+		
